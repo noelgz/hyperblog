@@ -1,6 +1,6 @@
 Esto es un título
 
-Esto es un título centrado
+Esto es un título No centrado
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
